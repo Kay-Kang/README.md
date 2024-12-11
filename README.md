@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **kaykang84@gmail.com**
 - Connnect to my old githup **<a href="https://github.com/kevin-kang-tido" target="_blank">kevin-kang-tido</a>**
-- 
 
 - ⚡ Fun fact **I think I'm handsome😎**
 
