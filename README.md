@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I think I'm handsome😎**
 
-<h3 align="left">Connect with me:</h3>
-- Connnect to my old githup **kevin-kang-tido**
+<h3 align="left">Connect with me:</h3> 
+- Connnect to my old githup **kevin-kang-tido** </br>
 - 📫 How to reach me **kaykang84@gmail.com**
 <h2> 
   <a href="https://github.com/kevin-kang-tido" target="_blank">kevin-kang-tido</a>
